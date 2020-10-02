@@ -9,8 +9,8 @@ public class StringCompareBy {
 
 		String s3 = new String("Sachin");
 
-		System.out.println(s1 == s2); //both string refers same instance in string pool
-		System.out.println(s1 == s3); //s3 refers to the instance in the heap. 
+		System.out.println(s1 == s2); // both string refers same instance in string pool
+		System.out.println(s1 == s3); // s3 refers to the instance in the heap.
 
 	}
 
