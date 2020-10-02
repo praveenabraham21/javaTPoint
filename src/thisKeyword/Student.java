@@ -1,4 +1,4 @@
-package thisKeyword.classInstanceVriable;
+package thisKeyword;
 
 public class Student {
 
